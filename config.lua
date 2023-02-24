@@ -8,6 +8,10 @@ Apartments.Locations = {
         coords = {
             enter = vector4(-667.02, -1105.24, 14.63, 242.32),
         },
+        stash = {
+            slots = 30,
+            weight = 250000
+        },
         polyzoneBoxData = {
             heading = 245,
             minZ = 13.5,
@@ -24,6 +28,10 @@ Apartments.Locations = {
         label = "Morningwood Blvd",
         coords = {
             enter = vector4(-1288.52, -430.51, 35.15, 124.81),
+        },
+        stash = {
+            slots = 30,
+            weight = 250000
         },
         polyzoneBoxData = {
             heading = 124,
@@ -42,6 +50,10 @@ Apartments.Locations = {
         coords = {
             enter = vector4(269.73, -640.75, 42.02, 249.07),
         },
+        stash = {
+            slots = 30,
+            weight = 250000
+        },
         polyzoneBoxData = {
             heading = 250,
             minZ = 40,
@@ -59,6 +71,10 @@ Apartments.Locations = {
         coords = {
             enter = vector4(-619.29, 37.69, 43.59, 181.03),
         },
+        stash = {
+            slots = 30,
+            weight = 250000
+        },
         polyzoneBoxData = {
             heading = 180,
             minZ = 41.0,
@@ -75,6 +91,10 @@ Apartments.Locations = {
         label = "Fantastic Plaza",
         coords = {
             enter = vector4(291.517, -1078.674, 29.405, 270.75),
+        },
+        stash = {
+            slots = 30,
+            weight = 250000
         },
         polyzoneBoxData = {
             heading = 270,
